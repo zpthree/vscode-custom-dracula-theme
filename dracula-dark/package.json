@@ -1,0 +1,39 @@
+{
+	"name": "hisoka-theme",
+	"displayName": "Hisoka Theme",
+	"description": "Dark theme inspired by Dracula",
+	"icon": "images/hisoka-icon.png",
+	"version": "0.0.5",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arah24/Hisoka.git"
+	},
+	"publisher": "abidrah",
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"color-theme",
+		"theme",
+		"vivid",
+		"dark",
+		"dracula"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hisoka",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hisoka-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3ed387b5-13ad-4b1a-aa3c-740a8a290a94",
+		"publisherId": "d7da9bb6-fb17-42e7-82ed-2669969d7677",
+		"publisherDisplayName": "Abid"
+	}
+}
