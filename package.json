@@ -1,14 +1,14 @@
 {
-	"name": "hisoka-theme",
-	"displayName": "Hisoka Theme",
+	"name": "hisoka-2-theme",
+	"displayName": "Hisoka 2 Theme",
 	"description": "Dark theme inspired by Dracula",
-	"icon": "images/hisoka-icon.png",
+	"icon": "images/hisoka-icon.jpg",
 	"version": "0.0.5",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/arah24/Hisoka.git"
+		"url": "https://github.com/zpthree/vscode-hisoka-2-theme.git"
 	},
-	"publisher": "abidrah",
+	"publisher": "zpthree",
 	"engines": {
 		"vscode": "^1.36.0"
 	},
@@ -25,15 +25,15 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Hisoka",
+				"label": "Hisoka 2",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Hisoka-color-theme.json"
+				"path": "./themes/hisoka-2-color-theme.json"
 			}
 		]
 	},
 	"__metadata": {
 		"id": "3ed387b5-13ad-4b1a-aa3c-740a8a290a94",
 		"publisherId": "d7da9bb6-fb17-42e7-82ed-2669969d7677",
-		"publisherDisplayName": "Abid"
+		"publisherDisplayName": "Zach"
 	}
 }
