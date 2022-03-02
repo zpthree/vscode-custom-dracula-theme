@@ -3,7 +3,7 @@
 	"displayName": "Hisoka 2 Theme",
 	"description": "Dark theme inspired by Dracula",
 	"icon": "images/hisoka-icon.jpg",
-	"version": "0.0.5",
+	"version": "0.1.5",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/zpthree/vscode-hisoka-2-theme.git"
